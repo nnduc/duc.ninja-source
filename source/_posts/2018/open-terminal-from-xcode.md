@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Open Terminal from Xcode"
 date:   2018-02-04 13:20:00 +0700
 key: 20180204

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "More Interface Builder Tips And Tricks"
 date:   2018-03-04 22:56:00 +0700
 key: 20180304

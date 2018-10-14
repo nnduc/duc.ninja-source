@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "What the hell is Swift 4 Access Control?"
 date:   2017-11-04 21:45:00 +0700
 key: 20171104

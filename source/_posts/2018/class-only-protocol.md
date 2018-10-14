@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Swift 4 - Class only protocol
 date: 2018-08-17 08:13:00 +0700
 tags:

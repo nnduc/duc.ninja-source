@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Dependency Injection examples with Swift 4"
 date:   2017-11-05 21:16:00 +0700
 key: 20171105

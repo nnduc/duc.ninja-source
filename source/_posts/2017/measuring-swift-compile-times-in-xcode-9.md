@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Measuring Swift compile times in Xcode 9"
 date:   2017-10-01 14:36:34 +0700
 key: 20171001

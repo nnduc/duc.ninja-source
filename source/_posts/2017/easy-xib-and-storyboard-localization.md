@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Easy XIB and Storyboard Localization"
 date:   2017-11-05 22:30:00 +0700
 key: 20171105

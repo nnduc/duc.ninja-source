@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Shortcut to run a test case or run whole test case"
 date:   2018-01-25 21:43:00 +0700
 key: 20180125

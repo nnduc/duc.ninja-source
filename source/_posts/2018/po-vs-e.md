@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "LLDB: po vs e"
 date:   2018-01-25 21:43:00 +0700
 key: 20180125

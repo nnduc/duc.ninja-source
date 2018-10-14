@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Save custom objects into UserDefaults(Swift 4)"
 date:   2017-11-07 21:47:00 +0700
 key: 20171107

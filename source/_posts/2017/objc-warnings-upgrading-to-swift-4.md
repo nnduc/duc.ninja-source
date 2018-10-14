@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "@objc Warnings Upgrading To Swift 4"
 date:   2017-11-04 21:15:00 +0700
 key: 20171104

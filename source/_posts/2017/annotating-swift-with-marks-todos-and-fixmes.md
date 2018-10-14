@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Annotating Swift with MARKs, TODO's and FIXME's"
 date:   2017-09-25 23:02:34 +0700
 key: 20170925

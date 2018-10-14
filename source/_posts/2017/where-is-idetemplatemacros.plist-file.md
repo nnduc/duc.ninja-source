@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Customizing the file Header comment and text macros"
 date:   2017-11-04 23:15:00 +0700
 key: 20171104

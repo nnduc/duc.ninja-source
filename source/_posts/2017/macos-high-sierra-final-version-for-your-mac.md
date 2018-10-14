@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "macOS High Sierra Final Version for Your Mac"
 date:   2017-09-26 12:53:34 +0700
 key: 20170926

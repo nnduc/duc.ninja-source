@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Swift encoding and decoding"
 date:   2017-09-24 19:02:34 +0700
 key: 20170924

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Tips to be more productive with Xcode"
 date:   2017-09-25 07:02:34 +0700
 key: 20170925
