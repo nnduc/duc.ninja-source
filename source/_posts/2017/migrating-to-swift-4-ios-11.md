@@ -13,7 +13,7 @@ lang: en
 In the past, migrating your code was a big deal when a new version of Swift was introduced – when Swift 3 came around, it seemed like every line of code had a syntax change. This time around, however, life should be a lot easier on us – in fact maybe you’ll even see this nice message during your migration:
 
 ![](/assets/images/screenshot-2017-09-12-12-26-38.png)
-
+<!-- more -->
 Here’s what Chris Lattner said about it on the Accidental Tech Podcast:
 
 > I think it’s definitely fair to say that in the Swift 1 and 2 timeframes, Swift as a language was changing really rapidly, and I could see why you’d feel like you’re on uneven footing and not really sure what the language is, much less what the idioms are. Swift 3 really is quite well baked out, and I expect that going forward the new things are going to be additive, not changing the existing patterns.

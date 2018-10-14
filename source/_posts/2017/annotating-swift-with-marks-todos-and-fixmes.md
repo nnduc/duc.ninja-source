@@ -12,7 +12,7 @@ lang: en
 When **Swift** debuted, we said goodbye to using `#pragma` pre-processor definitions to organize our code. Don't worry, **Xcode** still has our backs. We can use a few different "special" comments in our code and **Xcode** will pick up on them and display them in its **jump bar**:
 
 ![](/assets/images/annotating-swift-with-marks-todos-and-fixmes.png)
-
+<!-- more -->
 The extra **dash** character in the name of our **MARK** gets us those *sweet* separators in the source navigator dropdown.
 
 **Xcode** also supports a similar bit of functionality for **TODO** and **FIXME** comments. They'll show up in **bold** in the same dropdown.

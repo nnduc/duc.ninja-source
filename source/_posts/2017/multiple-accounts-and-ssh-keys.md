@@ -11,7 +11,7 @@ lang: en
 
 Multiple SSH keys
 Problem is, Bitbucket doesn’t allow you to use the same SSH key with more than one Bitbucket account. I still have my old work account to tidy up loose ends.
-
+<!-- more -->
 As GitHub explains you can generate an SSH key like so:
 
 ```bash

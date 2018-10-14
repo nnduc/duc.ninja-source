@@ -17,7 +17,7 @@ lang: en
 
 ### 1. Decide Where to Open a File
 In Xcode, you can open a file in various ways: in the standard editor, in a new or existing assistant editor, in a new or existing tab, or in a new window. Here's how you can decide about this:
-
+<!-- more -->
 When clicking on a file in the Navigator, hold down **`⇧`** + **`⌥`**
 <br>When clicking on a symbol in an editor pane, hold down **`⇧`** + **`⌥`** + **`⌘`**
 <br>A pop-over will appear and let you choose where exactly you want this file to be displayed:

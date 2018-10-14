@@ -13,7 +13,9 @@ lang: en
 
 ## Using -Xfrontend Swift compiler flags
 
-The Swift type-checker remains [a performance bottleneck](https://www.cocoawithlove.com/blog/2016/07/12/type-checker-issues.html) for compile times, though it has [improved](https://github.com/apple/swift/search?utf8=%E2%9C%93&q=type+checker+improve&type=Commits)[tremendously](https://github.com/apple/swift/search?utf8=%E2%9C%93&q=type+checker+performance&type=Commits) over the past two years. You could even say the type-checker has gone from being [drunk](https://spin.atomicobject.com/2016/04/26/swift-long-compile-time/) to [sober](https://github.com/apple/swift/commit/2cdd7d64e1e2add7bcfd5452d36e7f5fc6c86a03). To help users debug these issues, awhile back [Jordan Rose added](https://github.com/apple/swift/commit/18c75928639acf0ccf0e1fb6729eea75bc09cbd5) a frontend Swift compiler flag that would emit warnings in Xcode for functions that took too long to compile, or rather took too long to type-check. In Xcode 9, there’s a new, similar flag for checking expressions.
+The Swift type-checker remains [a performance bottleneck](https://www.cocoawithlove.com/blog/2016/07/12/type-checker-issues.html) for compile times, though it has [improved](https://github.com/apple/swift/search?utf8=%E2%9C%93&q=type+checker+improve&type=Commits)[tremendously](https://github.com/apple/swift/search?utf8=%E2%9C%93&q=type+checker+performance&type=Commits) over the past two years. You could even say the type-checker has gone from being [drunk](https://spin.atomicobject.com/2016/04/26/swift-long-compile-time/) to [sober](https://github.com/apple/swift/commit/2cdd7d64e1e2add7bcfd5452d36e7f5fc6c86a03).
+<!-- more -->
+To help users debug these issues, awhile back [Jordan Rose added](https://github.com/apple/swift/commit/18c75928639acf0ccf0e1fb6729eea75bc09cbd5) a frontend Swift compiler flag that would emit warnings in Xcode for functions that took too long to compile, or rather took too long to type-check. In Xcode 9, there’s a new, similar flag for checking expressions.
 
 ### About `-warn-long-function-bodies`
 

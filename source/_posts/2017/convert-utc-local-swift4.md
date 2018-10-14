@@ -9,12 +9,10 @@ tags:
 lang: en
 ---
 
-
-
 In this article we are going to convert **UTC Date** format to **Current device date format**.
 
 **UTC** is the time standard commonly used across the world. The world's timing centers have agreed to keep their time scales closely synchronized - or coordinated - therefore the name **Coordinated Universal Time**.
-
+<!-- more -->
 ## UTC to Local:
 
 

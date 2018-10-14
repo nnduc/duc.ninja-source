@@ -10,10 +10,8 @@ tags:
 lang: en
 ---
 
-
-
 We have many ways to store and retrieve persistent data in iOS but let try to store a custom object into `UserDefaults` with `Codable` in Swift 4.
-
+<!-- more -->
 We have a custom object like this:
 
 ```swift

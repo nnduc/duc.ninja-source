@@ -9,10 +9,8 @@ tags:
 lang: en
 ---
 
-
-
 A few weeks ago a reader [pointed out an error](https://twitter.com/jasonalexzurita/status/915972380685516800) in [*Advanced Swift*](https://oleb.net/advanced-swift/). We had written this about Swift’s [`forEach`](https://developer.apple.com/documentation/swift/sequence/2906738-foreach) method:
-
+<!-- more -->
 > And it [`forEach`] really shines as part of a sequence of chained operations. For instance, imagine you’ve chained several calls to `map` and `filter` in a single statement, and during debugging you want to log the intermediate values somewhere in the middle of the chain. Inserting a `forEach` step at the desired position is probably the quickest way to do this.
 
 I imagine there was a lot of wishful thinking at play when we wrote this because it sounds like a truly useful feature (and it’s something you can’t do with a`for` - `in` loop). Alas, it’s completely wrong — you can’t use `forEach` in the middle of a chain like this!

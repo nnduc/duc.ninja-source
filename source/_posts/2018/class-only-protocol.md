@@ -13,7 +13,7 @@ protocol DetailViewControllerDelegate: class {
   func didFinishTask(sender: DetailViewController)
 }
 ```
-
+<!-- more -->
 Since Swift 4, we have an other way to define it. Introduced in [0156-subclass-existentials][0156-subclass-existentials]
 
 > This proposal merges the concepts of class and AnyObject, which now have the same meaning: they represent an existential for classes.

@@ -11,12 +11,9 @@ tags:
 lang: en
 ---
 
-
-
-### #TIL
-
 For the longest time I just used “po” in lldb to examine objects but “e” just adds a whole new level to debugging !
 <br>
+<!-- more -->
 ![](/assets/images/po-vs-e.jpg)
 
 Source: @caro

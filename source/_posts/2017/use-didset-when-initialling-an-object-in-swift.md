@@ -9,11 +9,8 @@ tags:
 lang: en
 ---
 
-
-
 By default `didSet` of a property  don't called during init, so we can use `defer` to fix that issue.
-
-
+<!-- more -->
 ```swift
 class VideoPlayerController: UIViewController {
     enum State {

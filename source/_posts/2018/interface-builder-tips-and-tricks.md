@@ -7,10 +7,8 @@ tags:
 
 ---
 
-
 My top ten tips, tricks, dos and don’ts to make you feel like an Interface Builder expert.
-
-
+<!-- more -->
 - To easily select an object when it is behind a stack of other items hold down the Ctrl (⌃) + Shift (⇧) keys and then click over the object. Select the item you want from the popup menu showing the full view hierarchy at the point where you clicked.
 
 ![](/assets/images/ib-tips/ib-tips001.png)

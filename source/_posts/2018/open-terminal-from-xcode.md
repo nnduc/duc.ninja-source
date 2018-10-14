@@ -11,10 +11,8 @@ lang: en
 ---
 
 
-### #TIL
-
 You are using third-party tools like CocoaPods, Cathage, SPM or just having some useful script files for your project. It's fine!
-
+<!-- more -->
 But you often found yourself in need of opening a Terminal window at the project location. It hard to tell that feeling. 🤔 Don't worry, here is what you need to do:
 
 ### 1.  Create a sh file

@@ -14,7 +14,7 @@ lang: en
 ![img](https://cdn-images-1.medium.com/max/1600/1*oFXeXtJ2LM8uB7prmtAZmw.jpeg)Photo by [freestocks.org](https://unsplash.com/photos/jUSu0686zDM) on [Unsplash](https://unsplash.com)
 
 Localization is a key part of an application. In order to make it easy, maintainable and extensible it deserves a bit of effort and care.
-
+<!-- more -->
 But for iOS graphic interfaces made with Interface Builder, it becomes a bit tricky to accomplish those goals.
 
 ### Storyboard localization: what the heck!

@@ -10,13 +10,10 @@ tags:
 lang: en
 ---
 
-
-
-
 Passing data from one view controller to another view controller using Notification Center is an easy way when compared to `delegate protocols`.
 
 Here we need add `observer` or `listeners` for getting new data to load. First we need to send data using post notification method.
-
+<!-- more -->
 
 
 ## Sending Data - Post Notification:

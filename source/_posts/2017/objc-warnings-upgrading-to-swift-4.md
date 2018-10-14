@@ -12,7 +12,7 @@ lang: en
 
 
 Open a Swift 3 project in Xcode 9 and it will warn you that you can upgrade to Swift 4. If you accept the invite you end up with another warning that Swift 4 mode deprecates the Swift 3 `@objc` inference rules. What is this scary sounding warning and how do you make it go away?
-
+<!-- more -->
 ### What Is @objc Inference?
 
 I’ll confess that `@objc` inference was not something I spent a lot of time thinking about before Swift 4 changed the rules. You can add `@objc` to Swift properties or methods to make them accessibile from Objective-C code. To make life easier the compiler also has some rules for when it will infer the `@objc` for you.

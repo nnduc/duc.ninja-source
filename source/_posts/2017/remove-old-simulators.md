@@ -10,16 +10,12 @@ tags:
 lang: en
 ---
 
-
-
-### #TIL
-
 If you are an iOS developer, execute this:
 
 ```swift
 $ xcrun simctl delete unavailable
 ```
-
+<!-- more -->
 
 It removes old simulators Xcode no longer use
 

@@ -15,6 +15,7 @@ lang: en
 #### Is Your Mac Compatible with High Sierra?
 
 This is vital information. But if your Mac can run macOS Sierra then it will be able to run macOS High Sierra just fine. But just in case, here is the list of compatible Mac computers with macOS High Sierra.
+<!-- more -->
 <br>
 iMac – 2009 or later.<br>
 MacBook – 2009 or later.<br>

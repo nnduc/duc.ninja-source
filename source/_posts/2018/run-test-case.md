@@ -11,16 +11,12 @@ tags:
 lang: en
 ---
 
-
-
-### #TIL
-
  `⌃⌥⌘U` shortcut does different things depending on the current cursor location:
 
 - inside a test method: runs this single test method
 - inside an `XCTestCase` subclass but outside of any method: runs all tests in the class
 - Run last test case before: `⌃⌥⌘G`
-
+<!-- more -->
 ![](/assets/images/run-test-case.jpg)
 
 Source: @arekholko

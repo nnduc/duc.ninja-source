@@ -11,7 +11,7 @@ lang: en
 
 ## Text macros
 Text macros are symbols that are expanded in-place to the specified text. They are used in files and other places in Xcode, such as the header text for a new file or the project name. You can customize existing macros and add your own macros in a project, for all users of a project, or for all of Xcode. Customizing a macro requires two things:
-
+<!-- more -->
 - *A plist named IDETemplateMacros.plist at an appropriate location.*
 - *An entry in IDETemplateMacros.plist for the text macro.*
 -

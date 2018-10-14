@@ -13,7 +13,7 @@ lang: en
 ## Encoding and decoding with Swift 4
 
 Swift 4 lets you serialize your custom data types to JSON without writing any special code.
-
+<!-- more -->
 ```javascript
 // encoding.swift
 struct Language: Codable {
