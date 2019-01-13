@@ -4,9 +4,9 @@
 
 # Site
 title: Duc Ninja
-subtitle: I'm an developer and a ninja also.
+subtitle: I'm an developer and a ninja as well.
 description:
-keywords:
+keywords: duc, duc.ninja, ios developer, ducito, nnduc
 author: Duc Ninja
 language: en
 timezone: Asia/Bangkok
@@ -31,7 +31,7 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
+titlecase: true # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
@@ -42,7 +42,7 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace:
 
 # Home page setting
