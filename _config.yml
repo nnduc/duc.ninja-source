@@ -15,8 +15,8 @@ timezone: Asia/Bangkok
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://duc.ninja
 root: /
-permalink: :year/:month/:day/:title/
-permalink_defaults:
+permalink: :year/:month/:day:title/
+permalink_defaults: :title/
 
 # Directory
 source_dir: source
@@ -80,12 +80,12 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: apollo #next #landscape
+theme: next #apollo #landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: https://nnduc@github.com/nnduc/nnduc.github.io.git
-  branch: master #published
+  branch: published #master
   message: Site updated {{ now('YYYY-MM-DD HH:mm:ss') }}
