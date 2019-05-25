@@ -4,7 +4,7 @@
 
 # Site
 title: Duc Ninja
-subtitle: I'm an developer and a ninja as well.
+subtitle: I'm a iOS engineer and a ninja as well.
 description:
 keywords: duc, duc.ninja, ios developer, ducito, nnduc
 author: Duc Ninja
@@ -87,5 +87,5 @@ theme: next #apollo #landscape
 deploy:
   type: git
   repo: https://nnduc@github.com/nnduc/nnduc.github.io.git
-  branch: published #master
+  branch: publishing #master
   message: Site updated {{ now('YYYY-MM-DD HH:mm:ss') }}
