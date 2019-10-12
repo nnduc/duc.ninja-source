@@ -137,14 +137,15 @@ exturl: false
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 # External url should start with http:// or https://
 menu:
-  home: / || home
+  # home: / || home
   # about: /about/ || user
   # tags: /tags/ || tags
-  #categories: /categories/ || th
-  archives: /archives/ || archive
-  #schedule: /schedule/ || calendar
-  #sitemap: /sitemap.xml || sitemap
-  #commonweal: /404/ || heartbeat
+  # categories: /categories/ || th
+  # archives: /archives/ || archive
+  # schedule: /schedule/ || calendar
+  # sitemap: /sitemap.xml || sitemap
+  # commonweal: /404/ || heartbeat
+  Blog: /archives/ || archive
   My info: https://linkedin.com/in/nnduc || user
 
 # Enable/Disable menu icons / item badges.
@@ -157,10 +158,10 @@ menu_settings:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
-#scheme: Pisces
-#scheme: Gemini
+# scheme: Muse
+scheme: Mist
+# scheme: Pisces
+# scheme: Gemini
 
 
 # ---------------------------------------------------------------
@@ -233,7 +234,7 @@ toc:
 sidebar:
   # Sidebar Position, available values: left | right (only for Pisces | Gemini).
   position: left
-  #position: right
+  # position: right
 
   # Manual define the sidebar width.
   # If commented, will be default for:
@@ -256,7 +257,7 @@ sidebar:
   # Back to top in sidebar.
   b2t: false
   # Scroll percent label in b2t button.
-  scrollpercent: false
+  scrollpercent: true
   # Enable sidebar on narrow view (only for Muse | Mist).
   onmobile: false
 
