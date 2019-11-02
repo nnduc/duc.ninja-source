@@ -1,4 +1,4 @@
-#!/bin/bash -v
+#!/bin/bash -ve
 
 rm -frd .deploy_git || exit 1
 
