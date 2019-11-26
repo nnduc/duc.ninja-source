@@ -5,8 +5,6 @@ date: 2019-11-26 16:00:00 +0700
 tags:
 ---
 
-#### Diffing
-
 *UIKit* is an imperative event-driven framework for building User Interfaces for iOS platform. It means you have to handle all the state changes during events like view loaded, button pressed, etc. The big downside of this approach is the complexity of keeping in sync User Interface with its state. As soon as state changes, you need to manually add/remove/show/hide the views and keep it in sync with the current state.
 
 <!-- more -->
