@@ -6,5 +6,5 @@ git clone git@nnduc_github:nnduc/nnduc.github.io.git --branch publishing .deploy
 
 rm -frd .deploy_git/*
 
-hexo generator
+hexo generate
 hexo deploy
