@@ -40,25 +40,25 @@ post_asset_folder: true
 relative_link: false
 future: true
 highlight:
-  enable: true
-  line_number: true
-  auto_detect: true
-  tab_replace: true
+    enable: true
+    line_number: true
+    auto_detect: true
+    tab_replace: true
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''
-  per_page: 10
-  order_by: -date
+    path: ''
+    per_page: 10
+    order_by: -date
 
 archive_generator:
-      per_page: 0
-      yearly: false
-      monthly: false
-      daily: false
+    per_page: 0
+    yearly: false
+    monthly: false
+    daily: false
 
 # Category & Tag
 default_category: uncategorized
@@ -85,7 +85,7 @@ theme: next #apollo #landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@nnduc_github:nnduc/nnduc.github.io.git
-  branch: publishing #master
-  message: Site updated {{ now('YYYY-MM-DD HH:mm:ss') }}
+    type: git
+    repo: git@nnduc_github:nnduc/nnduc.github.io.git
+    branch: publishing #master
+    message: Site updated {{ now('YYYY-MM-DD HH:mm:ss') }}
