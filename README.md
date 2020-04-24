@@ -1,2 +1,2 @@
 # duc.ninja-source
-hexo generate && hexo serve
+hexo generate && hexo serve -p 4001
