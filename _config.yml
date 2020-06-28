@@ -86,6 +86,6 @@ theme: next #next #apollo #landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
     type: git
-    repo: git@nnduc_github:nnduc/nnduc.github.io.git
+    repo: git@github.com:nnduc/nnduc.github.io.git
     branch: publishing #master
     message: Site updated {{ now('YYYY-MM-DD HH:mm:ss') }}
