@@ -18,14 +18,19 @@
 }
 
 .site-nav {
-  display: block;
-
   +mobile() {
-    clear: both;
     display: none;
   }
 
   &.site-nav-on {
     display: block;
+  }
+}
+
+.use-motion {
+  .site-brand-container .toggle {
+    opacity: 0;
+    position: relative;
+    top: -10px;
   }
 }
